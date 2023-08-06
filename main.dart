@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'package:flutter_app/reusabel.dart';
+import 'package:flutter_app/reusable.dart';
 
 void main() => runApp(MyApp());
 
