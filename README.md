@@ -1,6 +1,6 @@
 # REUSEABLE WIDGET IN FLUTTER 👋 
 
-## AUTHOR ## 🤵: COLLINS OLOKPEDJE
+## AUTHOR 🤵: COLLINS OLOKPEDJE
 
 This repository demonstrates the concept of a reusable widget in Flutter using the `ReuseFormWidget` as an example. A reusable widget is a custom widget designed to encapsulate certain functionalities or UI components, allowing them to be easily reused across multiple parts of an application. This concept promotes code organization, modularity, and maintainability.
 
